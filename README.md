@@ -20,7 +20,7 @@ Cada app implementa:
 
 La valorización se basa en el **total de análisis por afiliado dentro del período cargado**, no por orden individual.
 
-Ejemplo:
+Ejemplo Para PAMI (para APROSS tiene reglas mas específicas):
 
 Un afiliado realiza:
 - 6 análisis el 06/08
